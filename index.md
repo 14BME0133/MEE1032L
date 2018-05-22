@@ -10,11 +10,11 @@
 In `.pdf` format: `537kB`, download roster [here](assets/manuals/0f.pdf).
 
 
-#### [⚡️E01⚡️](assets/manuals/0f01.pdf)
-#### [⚡️E02⚡️](assets/manuals/0f02.pdf)
-#### [⚡️E03⚡️](assets/manuals/0f03.pdf)
-#### [⚡️E04⚡️](assets/manuals/0f04.pdf)
-#### [⚡️E05⚡️](assets/manuals/0f05.pdf)
+#### [⚡️E01⚡️](assets/manuals/0f01.pdf)THE DISCAHRGE FROM A CHEMICAL TANK (using ORIFICE).
+#### [⚡️E02⚡️](assets/manuals/0f02.pdf)THE DISCAHRGE FROM A CHEMICAL TANK (using MOUTHPIECE).
+#### [⚡️E03⚡️](assets/manuals/0f03.pdf)THE DISCHARGE PASSING THROUGH PALAR RIVER (using TRIANGULAR / RECTANGULAR NOTCH)
+#### [⚡️E04⚡️](assets/manuals/0f04.pdf)THE RATE OF FLOW FOR A PIPE LINE SUPPLYING WATER TO HOUSTON REFINERY, TEXAS (using Venturimeter / Orificemeter).
+#### [⚡️E05⚡️](assets/manuals/0f05.pdf)FRICTION FACTOR FOR A GIVEN PIPE LINE SUPPLYING WATER TO KONDAPALLI THERMAL POWER PLANT, VIJAYAWADA.
 
 ---
 
