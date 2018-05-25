@@ -40,27 +40,27 @@ In `.pdf` format: `1707kB`, download full roster [here](assets/manuals/0s.pdf).
 
 | # | state | eta | Day | Description|
 | --- | --- | --- | --- | --- |
-|1 | - [x] |	29-Apr-2018 |	TUE |	Verification of Maxwell theorem through deflection test 	|
-|2 | - [ ] |	30-Apr-2018 |	MON |	Introduction to the stress strain digram, stress, strain 	|
-|3 | - [ ] |	01-May-2018 |	TUE |	Evaluation of Stress -strain diagram of rod 	|
-|4 | - [x] |	02-May-2018 |	WED |	Comparison of hardness values of steel, copper and aluminium by Brinell hardness measuring machine 	|
-|5 | - [x] |	07-May-2018 |	MON |	Comparison of hardness values of steel, copper and aluminium by Rockwell hardness measuring machine 	|
-|6 | - [x] |	08-May-2018 |	TUE |	Estimation of Spring Constant under Tension and Compression 	|
-|7 | - [ ] |	09-May-2018 |	WED |	Evaluation of thin and twisted bar in tension 	|
-|8 | - [x] |	13-May-2018 |	WED |	Flow through Mouth Piece 	|
-|9 | - [x] |	14-May-2018 |	MON |	Flow through Venturimeter 	|
-|10| - [x] | 	15-May-2018 |	TUE |	Flow through Pipes 	|
-|11| - [ ] | 	16-May-2018 |	WED |	Flow through Triangular Notch 	|
-|12| - [ ] | 	21-May-2018 |	MON |	Re: Flow through Mouth Piece 	|
-|13| - [x] | 	22-May-2018 |	TUE |	Flow through orifice 	|
-|14| - [ ] | 	23-May-2018 |	WED |	Lab Exam|
+|1 | .. |	29-Apr-2018 |	TUE |	Verification of Maxwell theorem through deflection test 	|
+|2 | .. |	30-Apr-2018 |	MON |	Introduction to the stress strain digram, stress, strain 	|
+|3 | .. |	01-May-2018 |	TUE |	Evaluation of Stress -strain diagram of rod 	|
+|4 | .. |	02-May-2018 |	WED |	Comparison of hardness values of steel, copper and aluminium by Brinell hardness measuring machine 	|
+|5 | .. |	07-May-2018 |	MON |	Comparison of hardness values of steel, copper and aluminium by Rockwell hardness measuring machine 	|
+|6 | .. |	08-May-2018 |	TUE |	Estimation of Spring Constant under Tension and Compression 	|
+|7 | .. |	09-May-2018 |	WED |	Evaluation of thin and twisted bar in tension 	|
+|8 | .. |	13-May-2018 |	WED |	Flow through Mouth Piece 	|
+|9 | .. |	14-May-2018 |	MON |	Flow through Venturimeter 	|
+|10| .. | 	15-May-2018 |	TUE |	Flow through Pipes 	|
+|11| .. | 	16-May-2018 |	WED |	Flow through Triangular Notch 	|
+|12| .. | 	21-May-2018 |	MON |	Re: Flow through Mouth Piece 	|
+|13| .. | 	22-May-2018 |	TUE |	Flow through orifice 	|
+|14| .. | 	23-May-2018 |	WED |	Lab Exam|
 
 ---
 ---
 
 ## Uploads
 
- - Lab Digital Assignment 1 [Question](/assets/DALab/DAL1.pdf) -  [Answer](/ssets/UP/L1.pdf)
+ - Lab Digital Assignment 1 [Question](..s/DALab/DAL1.pdf) -  [Answer](assets/UP/L1.pdf)
  - Lab Digital Assignment 2 [Question](assets/DALab/DAL2.pdf) -  [Answer](assets/UP/L2.pdf)
  - Lab Digital Assignment 3 [Question](assets/DALab/DAL3.pdf) -  [Answer](assets/UP/L3.pdf)
  - Lab Digital Assignment 4 [Question](assets/DALab/DAL4.pdf) -  [Answer](assets/UP/L4.pdf)
