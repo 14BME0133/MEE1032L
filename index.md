@@ -60,11 +60,11 @@ In `.pdf` format: `1707kB`, download full roster [here](assets/manuals/0s.pdf).
 
 ## Uploads
 
- - Lab Digital Assignment 1 [Question](/assets/DALab/DAL1.pdf) -  [Answer](/assets/UP/A1.pdf)
- - Lab Digital Assignment 2 [Question](/assets/DALab/DAL2.pdf) -  [Answer](/assets/UP/A2.pdf)
- - Lab Digital Assignment 3 [Question](/assets/DALab/DAL3.pdf) -  [Answer](/assets/UP/A3.pdf)
- - Lab Digital Assignment 4 [Question](/assets/DALab/DAL4.pdf) -  [Answer](/assets/UP/A4.pdf)
- - Lab Digital Assignment 5 [Question](/assets/DALab/DAL5.pdf) -  [Answer](/assets/UP/A5.pdf)
+ - Lab Digital Assignment 1 [Question](/assets/DALab/DAL1.pdf) -  [Answer](/assets/UP/L1.pdf)
+ - Lab Digital Assignment 2 [Question](/assets/DALab/DAL2.pdf) -  [Answer](/assets/UP/L2.pdf)
+ - Lab Digital Assignment 3 [Question](/assets/DALab/DAL3.pdf) -  [Answer](/assets/UP/L3.pdf)
+ - Lab Digital Assignment 4 [Question](/assets/DALab/DAL4.pdf) -  [Answer](/assets/UP/L4.pdf)
+ - Lab Digital Assignment 5 [Question](/assets/DALab/DAL5.pdf) -  [Answer](/assets/UP/L5.pdf)
 
 ---
 ---
